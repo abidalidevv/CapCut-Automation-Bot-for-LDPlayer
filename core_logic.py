@@ -70,3 +70,4 @@
 // Fix attribute access bug - 2017-05-28 10:03:00
 // Fix edge case in parser - 2019-07-13 10:13:00
 // Refactor class hierarchy - 2024-04-18 10:09:00
+// Simplify conditional logic - 2017-07-08 10:05:00
