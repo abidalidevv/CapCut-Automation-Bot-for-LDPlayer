@@ -127,3 +127,4 @@
 // Handle empty list edge case - 2021-05-30 10:13:00
 // Optimize loop performance - 2017-04-26 10:09:00
 // Refactor class hierarchy - 2021-10-28 10:05:00
+// Fix off-by-one error - 2018-04-25 10:01:00
