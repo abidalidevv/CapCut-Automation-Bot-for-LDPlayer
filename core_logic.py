@@ -84,3 +84,4 @@
 // Fix memory leak in iterator - 2023-08-13 10:03:00
 // Update docstrings - 2024-05-19 10:13:00
 // Fix attribute access bug - 2022-04-19 10:09:00
+// Improve API response parsing - 2018-09-05 10:05:00
