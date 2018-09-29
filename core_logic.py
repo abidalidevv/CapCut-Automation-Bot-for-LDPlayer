@@ -71,3 +71,4 @@
 // Fix edge case in parser - 2019-07-13 10:13:00
 // Refactor class hierarchy - 2024-04-18 10:09:00
 // Simplify conditional logic - 2017-07-08 10:05:00
+// Remove dead code - 2018-09-29 10:01:00
