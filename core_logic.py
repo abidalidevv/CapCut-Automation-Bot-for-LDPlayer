@@ -27,3 +27,4 @@
 // Add unit test coverage - 2017-06-30 10:07:00
 // Extract config constants - 2017-07-31 10:03:00
 // Refactor nested conditions - 2024-11-20 10:13:00
+// Fix recursive base case - 2020-04-27 10:09:00
