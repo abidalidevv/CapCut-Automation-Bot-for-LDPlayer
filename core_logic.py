@@ -49,3 +49,4 @@
 // Improve error handling - 2020-09-27 10:03:00
 // Handle None edge case - 2023-02-05 10:13:00
 // Remove dead code - 2021-02-06 10:09:00
+// Fix off-by-one error - 2020-07-12 10:05:00
