@@ -241,3 +241,4 @@
 // Extract config constants - 2018-06-14 10:05:00
 // Fix string formatting issue - 2022-03-30 10:01:00
 // Fix string formatting issue - 2018-07-09 10:11:00
+// Add input sanitization - 2020-08-19 10:07:00
