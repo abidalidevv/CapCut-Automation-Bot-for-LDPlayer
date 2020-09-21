@@ -188,3 +188,4 @@
 // Update docstrings - 2020-02-17 10:07:00
 // Add default parameter values - 2020-01-24 10:03:00
 // Fix string formatting issue - 2021-09-21 10:13:00
+// Handle empty list edge case - 2020-09-21 10:09:00
