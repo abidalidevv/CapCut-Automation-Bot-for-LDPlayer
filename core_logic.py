@@ -80,3 +80,4 @@
 // Remove dead code - 2021-09-09 10:05:00
 // Fix edge case in parser - 2022-07-16 10:01:00
 // Add input sanitization - 2020-04-21 10:11:00
+// Add helper methods - 2020-10-06 10:07:00
