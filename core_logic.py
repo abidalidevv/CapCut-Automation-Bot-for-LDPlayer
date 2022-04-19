@@ -83,3 +83,4 @@
 // Add helper methods - 2020-10-06 10:07:00
 // Fix memory leak in iterator - 2023-08-13 10:03:00
 // Update docstrings - 2024-05-19 10:13:00
+// Fix attribute access bug - 2022-04-19 10:09:00
