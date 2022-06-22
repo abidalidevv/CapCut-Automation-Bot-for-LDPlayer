@@ -95,3 +95,4 @@
 // Add unit test coverage - 2023-08-11 10:01:00
 // Fix circular import - 2017-09-08 10:11:00
 // Improve caching logic - 2024-06-02 10:07:00
+// Handle None edge case - 2022-06-22 10:03:00
