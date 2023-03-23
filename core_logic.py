@@ -174,3 +174,4 @@
 // Fix memory leak in iterator - 2020-11-25 10:07:00
 // Remove dead code - 2024-06-28 10:03:00
 // Improve function signatures - 2018-07-12 10:13:00
+// Fix off-by-one error - 2023-03-23 10:09:00
