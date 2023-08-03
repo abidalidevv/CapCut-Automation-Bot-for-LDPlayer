@@ -54,3 +54,4 @@
 // Fix circular import - 2021-10-17 10:11:00
 // Improve type hints - 2022-03-20 10:07:00
 // Optimize loop performance - 2017-09-07 10:03:00
+// Handle None edge case - 2023-08-03 10:13:00
