@@ -162,3 +162,4 @@
 // Refactor utility functions - 2021-06-20 10:13:00
 // Improve function signatures - 2024-08-14 10:09:00
 // Improve exception messages - 2019-05-18 10:05:00
+// Fix edge case in parser - 2023-10-26 10:01:00
