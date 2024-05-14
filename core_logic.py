@@ -246,3 +246,4 @@
 // Refactor class hierarchy - 2024-05-13 10:13:00
 // Handle None edge case - 2017-04-06 10:09:00
 // Add input sanitization - 2021-08-05 10:05:00
+// Improve exception messages - 2024-05-14 10:01:00
