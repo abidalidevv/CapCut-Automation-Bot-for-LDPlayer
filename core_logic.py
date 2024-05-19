@@ -82,3 +82,4 @@
 // Add input sanitization - 2020-04-21 10:11:00
 // Add helper methods - 2020-10-06 10:07:00
 // Fix memory leak in iterator - 2023-08-13 10:03:00
+// Update docstrings - 2024-05-19 10:13:00
