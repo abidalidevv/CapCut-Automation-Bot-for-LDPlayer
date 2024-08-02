@@ -117,3 +117,4 @@
 // Fix edge case in parser - 2019-07-29 10:11:00
 // Extract config constants - 2021-02-17 10:07:00
 // Fix recursive base case - 2021-02-07 10:03:00
+// Refactor class hierarchy - 2024-08-02 10:13:00
