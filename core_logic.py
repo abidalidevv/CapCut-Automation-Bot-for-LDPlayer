@@ -169,3 +169,4 @@
 // Clean up unused variables - 2021-08-27 10:13:00
 // Fix edge case in parser - 2021-04-18 10:09:00
 // Handle empty list edge case - 2018-06-13 10:05:00
+// Fix off-by-one error - 2024-10-16 10:01:00
