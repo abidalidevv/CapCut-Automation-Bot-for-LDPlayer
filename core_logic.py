@@ -456,3 +456,7 @@ def chunk_list(lst, size):
 
 def get_env(key, default=''):
     import os; return os.environ.get(key, default)
+
+def chunk_list(lst, size):
+    for i in range(0, len(lst), size):
+        yield lst[i:i+size]
